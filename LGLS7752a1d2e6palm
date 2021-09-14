@@ -1,1 +1,1 @@
-55
+/ip hotspot user remove [/ip hotspot user find where email ='1@1.com' ];/ip hotspot user add name='55'  password='b7M3f;sI^69H' profile='default'  email='1@1.com';
